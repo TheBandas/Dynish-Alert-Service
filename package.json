@@ -1,0 +1,17 @@
+{
+  "name": "server-check",
+  "version": "1.0.0",
+  "main": "config.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^6.10.0"
+  }
+}
