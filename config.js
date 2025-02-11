@@ -2,14 +2,14 @@ export const config = {
     sites: [
         {
             name: "Dynish App",
-            url: "https://dynish.ap/",
+            url: "https://dynish.app/",
             checkType: "http",
             timeout: 10000, // 10 second timeout
             expectedStatus: 200
         },
         {
             name: "Dynish Client App",
-            url: "https://client.dynish.ap/",
+            url: "https://client.dynish.app/",
             checkType: "http",
             timeout: 10000,
             expectedStatus: 200
